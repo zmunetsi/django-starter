@@ -1,2 +1,2 @@
 # django-starter
-Fresh django project - Zuri project task
+Fresh django project - Zuriboard project task
